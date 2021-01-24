@@ -17,7 +17,7 @@
           "help": {
             "online": "https://github.com/nicshackle/MiniMidi"
           },
-          "url": "https://github.com/nicshackle/MiniMidi-1.0.0.zip",
+          "url": "https://raw.githubusercontent.com/nicshackle/MiniMidi-firmware/main/MiniMidi-1.0.0.zip",
           "archiveFileName": "MiniMidi-1.0.0.zip",
           "checksum": "SHA-256:ae27b831437e56ad50788b6a01c11da5e43bc462e7d9a88a12ac4daa11a5a0e911f6a732a6742e1ef78dd0c4f91db550eed714b5e679bc5719761f5dbc4ee990",
           "size": "40661",
