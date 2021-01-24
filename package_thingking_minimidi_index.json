@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "Thingking MiniMidi",
+      "maintainer": "Thingking Studios",
+      "websiteURL": "https://github.com/nicshackle/MiniMidi",
+      "email": "",
+      "help": {
+        "online": "https://github.com/nicshackle/MiniMidi"
+      },
+      "platforms": [
+        {
+          "name": "MiniMidi",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/nicshackle/MiniMidi"
+          },
+          "url": "https://github.com/nicshackle/MiniMidi-1.0.0.zip",
+          "archiveFileName": "MiniMidi-1.0.0.zip",
+          "checksum": "SHA-256:ae27b831437e56ad50788b6a01c11da5e43bc462e7d9a88a12ac4daa11a5a0e911f6a732a6742e1ef78dd0c4f91db550eed714b5e679bc5719761f5dbc4ee990",
+          "size": "40661",
+          "boards": [
+            {"name": "MiniMidi"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
