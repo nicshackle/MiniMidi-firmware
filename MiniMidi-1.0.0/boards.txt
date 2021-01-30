@@ -8,7 +8,7 @@ minimidi32U4.pid.2=0x0036
 minimidi32U4.vid.3=0x2A03
 minimidi32U4.pid.3=0x8036
 
-minimidi32U4.upload.tool=avrdude
+minimidi32U4.upload.tool=arduino:avrdude
 minimidi32U4.upload.protocol=avr109
 minimidi32U4.upload.maximum_size=28672
 minimidi32U4.upload.maximum_data_size=2560
@@ -17,7 +17,7 @@ minimidi32U4.upload.disable_flushing=true
 minimidi32U4.upload.use_1200bps_touch=true
 minimidi32U4.upload.wait_for_upload_port=true
 
-minimidi32U4.bootloader.tool=avrdude
+minimidi32U4.bootloader.tool=arduino:avrdude
 minimidi32U4.bootloader.low_fuses=0xff
 minimidi32U4.bootloader.high_fuses=0xd8
 minimidi32U4.bootloader.extended_fuses=0xcb
@@ -32,6 +32,6 @@ minimidi32U4.build.pid=0x8036
 minimidi32U4.build.usb_product="MiniMidi"
 minimidi32U4.build.usb_manufacturer="Thingking Studios Pty ltd"
 minimidi32U4.build.board=AVR_MINIMIDI
-minimidi32U4.build.core=arduino
-minimidi32U4.build.variant=leonardo
+minimidi32U4.build.core=arduino:arduino
+minimidi32U4.build.variant=arduino:leonardo
 minimidi32U4.build.extra_flags={build.usb_flags}
