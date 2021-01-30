@@ -19,7 +19,7 @@
           },
           "url": "https://raw.githubusercontent.com/nicshackle/MiniMidi-firmware/main/MiniMidi-1.0.0.zip",
           "archiveFileName": "MiniMidi-1.0.0.zip",
-          "checksum": "SHA-256:b62e2446d80b7f1ccaea021c63d2c7a2cedfc601dee7630f5f1b82e13c3eb077",
+          "checksum": "SHA-256:666a3c5c51d809ae6d4133811e4e79c8580e1134c5706678204e583ebc26eb11",
           "size": "40661",
           "boards": [
             {"name": "MiniMidi"}

@@ -23,13 +23,13 @@ MiniMidi::MiniMidi(int mini_channel)
 
 	for (int i = 5; i > -1; i--) { //chase LEDs off
 	    digitalWrite(_leds[i], HIGH);
-	    delay(val);
+	    delay(100);
 	    digitalWrite(_leds[i], LOW);
 	  }
 
   for (int i = 5; i > -1; i--) { //chase LEDs off
     digitalWrite(_leds[i], HIGH);
-    delay(val);
+    delay(100);
     digitalWrite(_leds[i], LOW);
   }
 }
